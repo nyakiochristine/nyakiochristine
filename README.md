@@ -16,7 +16,7 @@ Software Engineer focused on building sleek, high-performance user interfaces an
 
 - 🎨 Crafting interactive UIs with **React** and **TypeScript**.
 
-- 🐍 Building robust backends with **Django** and **Flask**.
+- 🐍 Building robust backends with **Django**  **Flask** **Go** **FastApi**.
 
 - 🚀 Deploying seamless web experiences on **Vercel** and **Netlify**.
 
@@ -60,10 +60,6 @@ Software Engineer focused on building sleek, high-performance user interfaces an
 
 
 
-# 📊 GitHub Stats:
-
-### 🏆 GitHub Trophies
-[![] (https://github-profile-trophy.vercel.app/?username=nyakiochristine&theme=tokyonight&no-frame=false&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### 📈 Activity & Languages
@@ -80,10 +76,7 @@ Software Engineer focused on building sleek, high-performance user interfaces an
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=nyakiochristine&theme=tokyonight&area=true&hide_border=false)
 
----
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nyakiochristine&icon=0&color=0" alt="Visitor Count" />
-</p>
+
 
 ![](https://github-readme-stats.vercel.app/api?username=nyakiochristine&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
