@@ -4,7 +4,7 @@
 
 ###  I'm Christine Nyakio <br>
 
-Software Engineer focused on building sleek, high-performance user interfaces and full-stack applications. 🌍 I’m passionate about modern frontend frameworks, responsive design with Tailwind CSS, and streamlining deployments with GitHub Actions and Docker.
+Software Engineer focused on building  high-performance user interfaces and full-stack applications. 🌍 I’m passionate about modern frontend frameworks, responsive design with Tailwind CSS, and streamlining deployments with GitHub Actions and Docker.
 
 
 
@@ -14,7 +14,7 @@ Software Engineer focused on building sleek, high-performance user interfaces an
 
 **🔭 What I’m up to:**
 
-- 🎨 Crafting interactive UIs with **React** and **TypeScript**.
+- 🎨 Crafting interactive UIs with **React** and **TypeScript**. For Mobiel Development **Flutter** and **Kotlin**
 
 - 🐍 Building robust backends with **Django**  **Flask** **Go** **FastApi**.
 
@@ -30,7 +30,7 @@ Software Engineer focused on building sleek, high-performance user interfaces an
 
 - **Frontend:** React, TailwindCSS, JavaScript, TypeScript
 
-- **Backend:** Python (Django, Flask), Node.js
+- **Backend:** Python (Django, Flask,FastAPI), Node.js
 
 - **DevOps & Tools:** Docker, GitHub Actions, Git, NPM
 
