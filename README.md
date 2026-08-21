@@ -16,7 +16,7 @@ Software Engineer focused on building  high-performance user interfaces and full
 
 - 🎨 Crafting interactive UIs with **React** and **TypeScript**. For Mobiel Development **Flutter** and **Kotlin**
 
-- 🐍 Building robust backends with **Django**  **Flask** **Go** **FastApi**.
+- 🐍 Building robust backends with **Django**  **Flask** **FastApi**.
 
 - 🚀 Deploying seamless web experiences on **Vercel** and **Netlify**.
 
