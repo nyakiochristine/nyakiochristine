@@ -43,9 +43,6 @@ I enjoy turning ideas into clear user experiences, reliable backend systems, and
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-### Workflow & Deployment
-
-[![Workflow and deployment technologies](https://skillicons.dev/icons?i=git,githubactions,vercel,netlify,npm)](https://skillicons.dev)
 
 ## Featured Work
 
