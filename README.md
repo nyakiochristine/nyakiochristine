@@ -72,10 +72,7 @@ I enjoy turning ideas into clear user experiences, reliable backend systems, and
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nyakiochristine&theme=github_dark"
     alt="Top repositories by language"
   />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nyakiochristine&theme=github_dark"
-    alt="Most used languages"
-  />
+ 
 </p>
 
 <p align="center">
