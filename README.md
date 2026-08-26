@@ -67,13 +67,7 @@ I enjoy turning ideas into clear user experiences, reliable backend systems, and
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyakiochristine&theme=github_dark)
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nyakiochristine&theme=github_dark"
-    alt="Top repositories by language"
-  />
- 
-</p>
+
 
 <p align="center">
   <img
