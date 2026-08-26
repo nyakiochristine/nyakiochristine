@@ -1,89 +1,53 @@
-## Hi there 👋
+# Hi, I’m Christine Nyakio 👋
 
-# 💫 About Me:
+I’m a full-stack web and mobile developer building thoughtful, high-performance digital products.
 
-###  I'm Christine Nyakio <br>
+I enjoy turning ideas into clear user experiences, reliable backend systems, and smooth deployments.
 
-Software Engineer focused on building  high-performance user interfaces and full-stack applications. 🌍 I’m passionate about modern frontend frameworks, responsive design with Tailwind CSS, and streamlining deployments with GitHub Actions and Docker.
+## What I work with
 
+- Web: React, Vue.js, Angular, TypeScript, JavaScript, Tailwind CSS
+- Mobile: Flutter, Kotlin
+- Backend: Python, Django, Flask, FastAPI, Node.js
+- Cloud & DevOps: GCP, Docker, Terraform, GitHub Actions, Git
+- Deployment: Vercel, Netlify, Render
 
+## Currently
 
-<br>
+- Building interactive web and mobile interfaces
+- Working across frontend and backend systems
+- Exploring cloud tooling, CI/CD, and better developer workflows
 
+## Featured work
 
+- [Meet & Read NBO](https://meetandreadnbo.vercel.app/)  
+  A digital home for the silent book club I run in Nairobi.
 
-**🔭 What I’m up to:**
+- [Light for Community](https://lightforcommunity.netlify.app/)  
+  A community initiative website supporting education, nutrition, and opportunity.
 
-- 🎨 Crafting interactive UIs with **React** and **TypeScript**. For Mobiel Development **Flutter** and **Kotlin**
+- [TravelNest](https://github.com/nyakiochristine/travelnest)  
+  A travel itinerary-sharing platform currently in development.
 
-- 🐍 Building robust backends with **Django**  **Flask** **FastApi**.
+- SmartRunning  
+  A private health-tech mobile app helping runners monitor potential injuries. I contributed across Flutter, FastAPI, GCP, Terraform, and Genkit.
 
-- 🚀 Deploying seamless web experiences on **Vercel** and **Netlify**.
+## Let’s connect
 
+- [LinkedIn](https://www.linkedin.com/in/christine-nyakio-mwangi/)
+- [GitHub](https://github.com/nyakiochristine)
 
+## GitHub Activity
 
-<br>
+[![Christine's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=nyakiochristine&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/nyakiochristine)
 
-
-
-**💡 Tech I enjoy working with:**
-
-- **Frontend:** React, TailwindCSS, JavaScript, TypeScript
-
-- **Backend:** Python (Django, Flask,FastAPI), Node.js
-
-- **DevOps & Tools:** Docker, GitHub Actions, Git, NPM
-
-- **Deployment:** Vercel, Netlify
-
-
-
-<br>
-
-
-
-📫 You can reach me via GitHub or connect on [LinkedIn](https://www.linkedin.com/in/christine-nyakio-mwangi/).
-
-
-
-<br>
-
-
-
-🚀 **Creating. Coding. Deploying.**
-
-
-
-# 💻 Tech Stack:
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-
-
-
-
-### 📈 Activity & Languages
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=nyakiochristine&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Christine's Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nyakiochristine&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nyakiochristine&show_icons=true&theme=transparent&hide_border=true"
+    alt="Christine's GitHub stats"
+  />
 </p>
-
-
-### 🔥 Contribution Streak & Activity Graph
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyakiochristine&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="100%" />
-</p>
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=nyakiochristine&theme=tokyonight&area=true&hide_border=false)
-
-
-
-![](https://github-readme-stats.vercel.app/api?username=nyakiochristine&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nyakiochristine&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
 
 ---
 
-
+Creating, coding, and deploying.
