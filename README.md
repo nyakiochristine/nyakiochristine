@@ -52,7 +52,7 @@ I enjoy turning ideas into clear user experiences, reliable backend systems, and
 - [Light for Community](https://lightforcommunity.netlify.app/)  
   A community initiative website supporting education, nutrition, and opportunity.
 
-- [TravelNest](https://github.com/nyakiochristine/travelnestapp)  
+- [TravelNest](https://travelnestapp.vercel.app/)  
   A travel itinerary-sharing platform currently in development.
 
 - **Running App(Project at Elewa)** 
