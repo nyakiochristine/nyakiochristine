@@ -55,8 +55,8 @@ I enjoy turning ideas into clear user experiences, reliable backend systems, and
 - [TravelNest](https://github.com/nyakiochristine/travelnestapp)  
   A travel itinerary-sharing platform currently in development.
 
-- **Running App(Project at Elewa**  
-  A private sports-tech mobile app helping runners monitor potential injuries. I contributed across Flutter, FastAPI, GCP, Terraform, and Genkit.
+- **Running App(Project at Elewa)** 
+  A private sports-tech mobile app helping runners monitor potential injuries. I contributed across Flutter, FastAPI, GCP, Terraform, and integrated Genkit.
 
 ## Let’s Connect
 
